@@ -1,2 +1,2 @@
 # CourtCounter
-View the complete code in the master branch
+This app is a part of Android Nanodegree Basic program by Google.
